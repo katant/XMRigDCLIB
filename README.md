@@ -11,7 +11,9 @@
 
 ## Донат
 XMR: 46VBV5qQr6UTAhdnf9aJ6DNUx66cBG4697Z8u4JHDH7shZMarZsodrY14UMoCdxfK3XFCiZThDNtBXoCRbBegsZdJtuoVDk
+
 BTC: 1LAPkiDEVytqiPc389GWusxqoqvkXS9hbE
+
 RVN: RWa8XLnD2wJbB49qroJ6yU4CssVts1SwLg
 
 ## Контакты
